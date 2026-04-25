@@ -1,8 +1,7 @@
 out/
 data/*.txt
 data/*.gz
-outputs/tables/
-outputs/figures/
+outputs/
 *.class
 .DS_Store
 __pycache__/
