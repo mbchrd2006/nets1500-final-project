@@ -108,6 +108,7 @@ Location: [`outputs/figures`](outputs/figures)
 
 - `citation_vs_pagerank.svg`
 - `citation_vs_betweenness.svg`
+- `community_meta_network.svg`
 - `top_hidden_gems_betweenness.svg`
 - `top_hidden_gems_pagerank.svg`
 
